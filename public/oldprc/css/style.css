@@ -1,0 +1,364 @@
+/*
+Theme Name: Finance
+Theme URI: http://corpthemes.com/wordpress/finance/
+Author: Themesflat
+Author URI: https://themeforest.net/user/themesflat/portfolio
+Description: Finance is a clean and professional site template, perfect for ,  any business and personal chef web sites. Built on the Advanced Bootstrap 3 framework with HTML5 / CSS3. Its responsive too – Will fit great on all devices. More features with 5 Homepages (Full Screen, One Page, Video One Page, Video Full Screen One Page, Full Screen One Page, Parallax, Video Parallax, Video Full Screen),  and much more gives you more space to work with and also with a few lines of code
+Version: 1.2.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: finance
+Tags: accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+select#country{display:none;}
+article .entry-title {
+   font-weight: 600;
+   font-size: 20px;
+   margin: 3px 0 10px 0;
+   text-transform: uppercase;
+   text-align: center;
+}
+.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title{background-color: #afafaf !important; border: 2px solid #a29e9e!important;} /*  arnika  */
+@media only screen and (min-width: 981px)
+{
+	.tax-product_cat article.blog-post {
+    float: left;
+    width: 25%;
+    /*height: 300px;*/
+}
+}
+
+.gs_logo_single img{
+  width:147px;
+}
+article.blog-single {
+    padding: 35px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+/*.page-wrap.sidebar-left .widget-area
+{
+	background-color: #f5f5f5;       
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+} */
+.repair-wrapper h3 {
+    background: #363636 none repeat scroll 0 0;
+    border-radius: 30px;
+    clear: both;
+    color: white;
+    font-family: open_sansregular;
+    font-size: 19px;
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+}
+.fault-section > .yellow, .fault-section > .gray {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+}
+.yellow {
+    background: #fddb00 none repeat scroll 0 0;
+    float: right;
+    min-height: auto;
+    overflow: hidden;
+    padding: 10px 0;
+    width: 50%;
+}
+.gray {
+    background: #e7e7e7 none repeat scroll 0 0;
+    float: left;
+    overflow: hidden;
+    width: 50%;
+    padding: 6px 0 0;
+}
+.brands .wpb_column .vc_column-inner 
+{
+background-position: center 5px;
+    background-repeat: no-repeat;
+        border: 2px solid #999999;
+    border-radius: 4px;
+    display: block;
+    height: auto;
+    line-height: 1.42857;
+    margin-bottom: 20px;
+    max-width: 100%;
+  margin-left:20px;
+  margin-right:20px;
+    padding: 4px;
+      height: 186px;
+    transition: all 0.2s ease-in-out 0s;
+    box-shadow: 0 1px 3px #eeeeee;
+        box-shadow: 0 1px 3px #eeeeee;
+    -webkit-box-shadow: 0px 2px 3px #eeeeee;
+
+}
+.button.vc_btn3-container button:hover{
+  background: #fe9a04 !important;
+  color: #fff !important;
+}
+.vc_btn3-container.vc_btn3-center .vc_btn3-block.vc_btn3-size-lg{
+      font-size: 15px !important;
+    padding-top: 0px !important;
+    padding-bottom: 18px;
+}
+
+.brandscol{
+  
+}
+.bx-wrapper .bx-controls-direction a
+{
+      margin: -22px !important;
+}
+.owl-carousel .owl-item img {
+    width: 150px;
+}
+.footer, .bottom{
+  background: url(https://phonerepaircentre.com.au/wp-content/uploads/2018/11/footer-11.jpg);
+}
+.widget .widget-title {
+  text-transform: capitalize;
+}
+.widget .widget-title::after {
+  display: none;   
+}
+.bottom{
+  border-top: 2px solid #6DCFF6;
+}
+.header.header-style1, .nav.header-style2, .wrap-header-style3 {
+  background-color: #015B7E !important;
+}
+#mainnav > ul > li > a {
+  color: #fff !important;
+  text-transform: capitalize !important;
+  font-weight: 400;
+}
+.header-wrap .show-search {
+  display: none;     
+}
+#header #logo img{
+  width: auto;
+  height: 45px;
+}
+.themesflat-boxed .flat-top{
+  background: #fff !important;
+}
+.flat-top .custom-info ul li {
+  color: #015B7E !important;
+}
+.tp-caption.button-slide, .button-slide {
+  border-radius: 30px !important;
+  box-shadow: 2px 2px 4px #999 !important;
+}
+.tp-caption.title-slide, .title-slide {
+  text-shadow: 2px 3px 3px #999 !important;
+}
+.flat-before-footer {
+  display: none;    
+}
+.widget-custom-menu {
+  display: none;
+}
+.map-section p{
+  line-height: 0px;
+}
+.widget .widget-title {
+  margin-bottom: 10px;
+}
+.footer-widgets #nav_menu-2 ul li {
+  width: 100%;
+  padding-top: 4.5px;
+  padding-bottom: 4.5px;
+}
+
+.list-items li::before {
+  content: "\f363";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -11px;
+  font-family: "Ionicons";
+  font-size: 19px;
+}
+.vc_btn3-container button{
+  line-height: 16px !important;
+}
+.vc_btn3-container button:hover{
+  background: #015B7E !important;
+  color: #fff !important;
+}
+.blog-shortcode article .featured-post a img {
+  width:100%;
+}
+.blog-shortcode.blog-grid .content-post {
+  padding: 30px 30px 20px 0px;
+  background: none;
+}
+.blog-shortcode.blog-grid article .entry-border:hover {
+  margin-top: 0px;
+  box-shadow: none;
+}
+.btn-blue button{
+  line-height: 0px !important;
+  font-weight: 600 !important;
+  color: #005C7E !important;
+}
+.services-section .vc_btn3-style-modern {
+  border: none !important;
+  box-shadow: 2px 2px 2px #999 !important;
+  color: #003F53 !important;
+  font-weight: 600 !important;
+}
+.choose-use-section .wpb_column .vc_column-inner {
+  padding: 60px !important;
+}
+.choose-use-section .flat-iconbox{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.flat-iconbox.circle-outlined .flat-iconbox-icon {
+  border-color: #EBEBEB;
+  color: #5397BC;
+  background: #EBEBEB;
+}
+.choose-use-section .flat-iconbox.left .flat-iconbox-title{
+  color: #003F5A;
+}
+
+.service-list {
+  width: 100%;
+}
+.service-list li {
+  width: 50%;
+  float: left;
+  line-height: 30px;
+}
+.testimonial-section .flat-team .team-info {
+  width: 100%;
+  text-align: center;
+  background: #015B7E;
+  padding: 50px;
+  color: #fff;
+}
+.testimonial-section .flat-team .team-image {
+  width: 100%;
+  text-align: center;
+  background: #015B7E;
+}
+.testimonial-section .owl-carousel .owl-item img {
+  border-radius: 50%;
+  position: relative;
+  top: 30px;
+}
+.testimonial-section .flat-team .team-info .team-name {
+  color: #fff;
+  text-transform: capitalize;
+}
+.testimonial-section .owl-theme .owl-controls .owl-nav div.owl-prev,
+.testimonial-section .owl-theme .owl-controls .owl-nav div.owl-next {
+  background: #555;
+}
+.vc_btn3.vc_btn3-color-white.vc_btn3-style-modern {
+  color: #666;
+  border-color: #fff;
+  background-color: #fff;
+  box-shadow: 2px 2px 2px #999 !important;
+}
+.cta-section{
+  background-position: center;
+}
+.blog-shortcode article h2 a {
+  color: #015B7E;
+}
+.blog-shortcode article .read-more a {
+  color: #015B7E;
+  font-size: 16px;
+  background-color: #015B7E;
+  background: #fff;
+  box-shadow: 2px 2px 2px #999;
+  border-radius: 30px;
+}
+.widget ul li {
+  padding-top: 4.5px !important;
+  padding-bottom:  4.5px !important;
+}
+.widget .widget-links {
+  list-style: none;
+}
+.footer-widgets .widget.widget_nav_menu ul li::before {
+  content: "\2022";
+}
+.widget .widget-links li::before {
+  content: "\2022";
+  color: #fff;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+}
+.widget ul li {
+  padding: 0px 0 12px;
+}
+.loading-effect-2 > span, .loading-effect-2 > span::before, .loading-effect-2 > span::after {
+  border: 2px solid #fedb03 !important;
+}
+
+.flat-top .custom-info ul li i {
+  color: #015B7E !important;
+}
+.btn-menu::before, .btn-menu::after, .btn-menu span {
+  background-color: #fff;
+}
+@media only screen and ( max-width: 767px ) {
+.flat-top .custom-info a, .flat-top .custom-info i, .flat-top .custom-info {
+  text-align: center;
+}
+.wpb_single_image.vc_align_left {
+  text-align: center !important;
+}
+.testimonial-section .owl-carousel .owl-item {
+  background: #015B7E;
+}
+.col-mob-hide{
+  display: none;
+}
+.vc_custom_1543847376289 {
+background: #eee;
+}
+}
+.fa-youtube::before {
+  content: url(/img/ebay.png) !important;
+  position: relative;
+  top: 5px;
+}
+.comments-area {
+  display: none;
+}
+#wpcf7-f329-o1 button {
+  color: rgb(255, 255, 255) !important;
+}
+
+.tax-product_cat article.blog-post .entry-content{
+  display: none;
+}
+.tax-product_cat article.blog-post {
+  margin-bottom: 0px !important;  
+}
+.tax-product_cat article .featured-post {
+  margin-bottom: 0px;
+}
+@media only screen and ( min-width: 981px ) {
+.tax-product_cat article.blog-post {
+  float: left;
+  width: 25%;
+}
+
+}

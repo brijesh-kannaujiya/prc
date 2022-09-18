@@ -1,0 +1,69 @@
+.acm-stars .acm-star-show.zmdi{
+    color: #ffc10a;
+    font-size: 18px;
+}
+span.acm-stt {
+    padding: 6px;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    font-size: 16px;
+}
+span.acm-stt-approved{
+    background: #137ab4;
+}
+span.acm-stt-pending{
+    background: #f1d014;
+}
+span.acm-stt-paid{
+    background: #1eff0d;
+}
+span.acm-stt-reject{
+    background: #ff160a;
+}
+a.open-modal{
+    display: block;
+    text-align: center;
+    padding: 24px 20px;
+    border: 1px dashed;
+    margin: 20px 0px;
+    font-size: 30px;
+    color: #0081e4;
+}
+a.open-modal:hover{
+    background: #fff;
+}
+.time-table td,
+.time-table th{
+    text-align: center;
+    padding: 15px 0px;
+    vertical-align: middle;
+}
+.time-table th{
+    font-weight: 600;
+}
+.time-table td a{
+    display: none;
+    background: #fff;
+    width: 30px;
+    margin: 5px auto;
+    padding: 2px 0px;
+    border-radius: 3px;
+}
+.time-table td a:hover{
+    background: #0073aa;
+    color: #fff;
+}
+.time-table td a i{
+    font-size: 15px;
+}
+.time-table td.add a.open-add-service{
+    display: block;
+}
+.time-table td.edit a.open-edit-service,
+.time-table td.edit a.open-delete-service{
+    display: block;
+}
+.time-table td a.delete-time{
+    display: block;
+}

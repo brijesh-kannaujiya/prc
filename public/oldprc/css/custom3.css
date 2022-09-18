@@ -1,0 +1,244 @@
+
+body, button, input, select, textarea {
+	font-family: Poppins
+}
+
+body, button, input, select, textarea {
+	font-weight: 400
+}
+
+body, button, input, select, textarea {
+	font-style: normal
+}
+
+body, button, input, select, textarea {
+	font-size: 16px
+}
+
+body, button, input, select, textarea {
+	line-height: 26px !important
+}
+
+h1, h2, h3, h5, h6 {
+	font-family: Poppins
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 600
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-style: normal
+}
+
+#mainnav>ul>li>a {
+	font-family: Poppins
+}
+
+#mainnav>ul>li>a {
+	font-weight: 600
+}
+
+#mainnav>ul>li>a {
+	font-style: normal
+}
+
+#mainnav ul li a {
+	font-size: 14px
+}
+
+#mainnav ul li a {
+    
+    line-height:92px
+	
+}
+
+h1 {
+	font-size: 60px
+}
+
+h2 {
+	font-size: 45px
+}
+
+h3 {
+	font-size: 30px
+}
+
+h4 {
+	font-size: 20px
+}
+
+h5 {
+	font-size: 15px
+}
+
+h6 {
+	font-size: 13px
+}
+
+.page-title .page-title-heading h1, .breadcrumbs .trail-end,
+	.breadcrumbs span {
+	color: #2e363a
+}
+
+.breadcrumbs span a, .breadcrumbs a, .breadcrumbs span.sep {
+	color: #ee2
+}
+
+.page-title {
+	Padding: 25px 0
+}
+
+a:hover, .wrap-client-slide .owl-theme .owl-controls .owl-nav div.owl-prev:hover:before,
+	.wrap-client-slide .owl-theme .owl-controls .owl-nav div.owl-next:hover:before,
+	ul.flat-list li:before, .navigation.posts-navigation .nav-links li a .meta-nav,
+	article h4.entry-time a, .author-post .info .name a, .flat-portfolio .portfolio-gallery .item .title-post a:hover,
+	.flat-portfolio .portfolio-gallery .item .category-post a:hover,
+	.footer-widgets ul li a:hover, .bottom #menu-bottom li a:hover,
+	.flat-iconbox.flat-iconbox-style2:hover .box-icon span, .imagebox.style-2 .box-button a,
+	.imagebox.style-2 .box-header .box-title a:hover, .imagebox.style-3 .box-header .box-title a:hover,
+	.flat-iconbox.style-3 .box-header .box-icon span, .testimonial-slider.style-2 .testimonial-author .author-info,
+	.blog-shortcode.blog-home3 article .read-more a, .blog-shortcode.blog-home3 article .read-more a:after,
+	.flat-text-block-timeline .year, .imagebox.services-grid .box-button a,
+	.imagebox.services-grid .box-header .box-title a:hover, .flat-portfolio .item .title-post a:hover,
+	.portfolio-filter li a:hover, .breadcrumbs span a:hover, .breadcrumbs a:hover,
+	.flat-imagebox.style-2 .flat-imagebox-button a, .flat-imagebox.style-2 .flat-imagebox-header .flat-imagebox-title a:hover,
+	.flat-iconbox.style-3 .flat-iconbox-header .flat-iconbox-icon span,
+	.flat-imagebox.services-grid .flat-imagebox-button a, article .entry-meta ul li a:hover,
+	.breadcrumbs span a, .breadcrumbs a, .breadcrumbs span.sep {
+	color: #015b7e
+}
+
+.title-section .title:after, .flat-iconbox.rounded .box-icon, .owl-theme .owl-controls .owl-nav [class*=owl-],
+	.blog-shortcode article .featured-post:after, .blog-shortcode article:hover .entry-meta,
+	.flat-iconbox.circle .box-icon, .flat-progress .progress-animate,
+	.flat-button, .flat-team .box-readmore a, .portfolio-filter li.active a:after,
+	.portfolio-filter li a:after, .flat-socials li a, .imagebox.style-2 .box-image:after,
+	.title-section.style3 .title:after, .imagebox.style-3 .box-image:before,
+	.imagebox.style-3 .box-image:after, .testimonial-slider.style-2.owl-theme.owl-theme .owl-controls .owl-nav [class*=owl-]:hover,
+	.btn-cons a:hover, .testimonials-sidebar .owl-theme .owl-dots .owl-dot span:hover,
+	.testimonials-sidebar .owl-theme .owl-dots .owl-dot.active span,
+	.imagebox.services-grid .box-image:after, .blog-shortcode article .read-more a:hover,
+	input[type='submit'], .flat-imagebox .flat-imagebox-button a,
+	.flat-iconbox.rounded .flat-iconbox-icon, .flat-imagebox.style-2 .flat-imagebox-image:after,
+	.flat-iconbox.circle .flat-iconbox-icon, .testimonial-slider.style-1 .testimonial-content:before,
+	.flat-imagebox.style-3 .flat-imagebox-image:before, .flat-imagebox.style-3 .flat-imagebox-image:after,
+	.flat-imagebox.services-grid .flat-imagebox-image:after, article .entry-content .more-link
+	{
+	background-color: #015b7e
+}
+
+.info-top-right a.appoinment, .imagebox .box-button a, .imagebox .box-header:before,
+	.call-back-form .flat-button-form, .flat-before-footer .custom-info .icon,
+	button, input[type='button'], input[type='reset'], .go-top:hover,
+	.page-template-tpl .vc_toggle_active .vc_toggle_title,
+	.wpb_gallery_slides .flex-direction-nav li a, .sidebar .widget.widget_nav_menu ul li:first-child a:before,
+	.featured-post.blog-slider .flex-prev, .featured-post.blog-slider .flex-next,
+	.vc_tta.vc_tta-accordion .vc_tta-controls-icon-position-left.vc_tta-panel-title>a,
+	#flat-portfolio-carousel ul.flex-direction-nav li a, .navigation.posts-navigation .nav-links li a:after,
+	.title_related_portfolio:after, .navigation.paging-navigation a:hover,
+	.widget .widget-title:after, .widget.widget_tag_cloud .tagcloud a,
+	.navigation.paging-navigation .current, .widget.widget_categories ul li:first-child>a:before,
+	.blog-single .entry-footer .tags-links a, .comment-reply-title:after,
+	.comment-title:after, #mc4wp-form-1 input[type='submit'] {
+	background-color: #015b7e
+}
+
+textarea:focus, input[type='text']:focus, input[type='password']:focus,
+	input[type='datetime']:focus, input[type='datetime-local']:focus, input[type='date']:focus,
+	input[type='month']:focus, input[type='time']:focus, input[type='week']:focus,
+	input[type='number']:focus, input[type='email']:focus, input[type='url']:focus,
+	input[type='search']:focus, input[type='tel']:focus, input[type='color']:focus,
+	.testimonial-slider.owl-theme .owl-dots .owl-dot.active span:before,
+	.navigation.paging-navigation .current, .flat-iconbox.flat-iconbox-style2:hover .box-icon,
+	.testimonial-slider.style-2.owl-theme.owl-theme .owl-controls .owl-nav [class*=owl-]:hover
+	{
+	border-color: #015b7e !important
+}
+
+
+.loading-effect-2>span, .loading-effect-2>span:before, .loading-effect-2>span:after
+	{
+	border: 2px solid #015b7e
+}
+
+.loading-effect-2>span {
+	border-left-color: transparent !important
+}
+
+.imagebox .box-button a:hover, .navigation.paging-navigation a:hover {
+	color: #fff !important
+}
+
+.info-top-right a.appoinment:hover, .imagebox .box-button a:hover,
+	.call-back-form .flat-button-form:hover, button:hover, input[type='reset']:hover,
+	.wpb_gallery_slides .flex-direction-nav li a:hover, .featured-post.blog-slider .flex-prev:hover,
+	.featured-post.blog-slider .flex-next:hover, .vc_tta.vc_tta-accordion .vc_tta-controls-icon-position-left.vc_tta-panel-title>a:hover,
+	#flat-portfolio-carousel ul.flex-direction-nav li a:hover, .navigation.posts-navigation .nav-links li:hover a:after,
+	.widget.widget_tag_cloud .tagcloud a:hover, .blog-single .entry-footer .tags-links a:hover,
+	#mc4wp-form-1 input[type='submit']:hover {
+	background-color: #2e363a !important
+}
+
+.show-search a i:hover, article h4.entry-time a:hover, .header-style2 .nav-wrap #mainnav>ul>li>a:hover,
+	.header-style3 .nav-wrap #mainnav>ul>li>a:hover {
+	color: #2e363a !important
+}
+
+body {
+	color: #666 !important
+}
+
+.flat-top {
+	background-color: #3a526a !important
+}
+
+.flat-top, .info-top-right, .info-top-right a.appoinment {
+	color: #ffffff !important
+}
+
+.header.header-style1, .nav.header-style2, .wrap-header-style3 {
+	background-color: #fff
+}
+
+#mainnav>ul>li>a {
+	color: #424242
+}
+
+#mainnav>ul>li>a:hover, #mainnav>ul>li.current-menu-item>a {
+	color: #fedb03 !important
+}
+
+#mainnav ul.sub-menu>li>a {
+	color: #fff !important
+}
+
+#mainnav ul.sub-menu {
+	background-color: #1d2738
+}
+
+#mainnav ul.sub-menu>li>a:hover {
+	background-color: #fedb03 !important
+}
+
+#mainnav ul.sub-menu>li {
+	border-color: #2d374a !important
+}
+
+.footer {
+	background-color: #2e363a !important
+}
+
+.footer a, .footer, .flat-before-footer .custom-info>div,
+	.footer-widgets ul li a {
+	color: #e5e5e5
+}
+
+.bottom {
+	background-color: #2e363a !important
+}
+
+.bottom .copyright p, .bottom #menu-bottom li a {
+	color: #e5e5e5
+}

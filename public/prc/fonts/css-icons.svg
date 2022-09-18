@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport"
+       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+ <meta http-equiv="X-UA-Compatible" content="ie=edge">
+ <link rel="profile" href="http://gmpg.org/xfn/11">
+ <title>Page not found &#8211; TekhFixers &#8211; Mobile Device and Electronics Repair WordPress Theme</title>
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TekhFixers - Mobile Device and Electronics Repair WordPress Theme &raquo; Feed" href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TekhFixers - Mobile Device and Electronics Repair WordPress Theme &raquo; Comments Feed" href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"/prc/js/wp-emoji-release.min.js"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='acm-admin-css-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/tekhfixers-app/assets/css/acm-admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tekhfixers-admin-style-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/admin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='modal-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/modal.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-material-icon-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/material-design-iconic-font.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-plugin-stylesheet-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/cmssuperheroes/assets/css/cms-style.css' type='text/css' media='all' />
+<link property="stylesheet" rel='stylesheet' id='owl-carousel-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/cmssuperheroes/assets/css/owl.carousel.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swadmb-front.css-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/swa-demo-bar/assets/css/swadmb-front.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acm-front-css-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/tekhfixers-app//assets/css/acm-front.css' type='text/css' media='all' />
+<link rel='stylesheet' id='countrySelect.min.css-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/tekhfixers-app//assets/css/countrySelect.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_sf_style-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/timetable/style/superfish.css' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_style-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/timetable/style/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_event_template-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/timetable/style/event_template.css' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_responsive_style-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/timetable/style/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_font_lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='bootstrap-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tekhfixers-theme-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/theme.css' type='text/css' media='all' />
+<style id='tekhfixers-theme-inline-css' type='text/css'>
+@media screen and(max-width:991px){}.primary-menu>li>a{color:#b3bec8 }.primary-menu>li>a:hover{color:#32eb9a}.primary-menu>li.current_page_item>a,.primary-menu>li.current-menu-item>a,.primary-menu>li.current_page_ancestor>a,.primary-menu>li.current-menu-ancestor>a{color:#32eb9a }#site-header-wrap.header-layout .headroom--pinned:not(.headroom--top) .primary-menu>li>a{color:#b3bec8 }#site-header-wrap.header-layout .headroom--pinned:not(.headroom--top) .primary-menu>li>a:hover{color:#32eb9a }#site-header-wrap.header-layout .headroom--pinned:not(.headroom--top) .primary-menu>li.current_page_item>a,.headroom--pinned:not(.headroom--top) .primary-menu>li.current-menu-item>a,.headroom--pinned:not(.headroom--top) .primary-menu>li.current_page_ancestor>a,.headroom--pinned:not(.headroom--top) .primary-menu>li.current-menu-ancestor>a{color:#32eb9a !important}@media screen and(max-width:991px){body #pagetitle{padding-top:16px;padding-bottom:46px}}@media screen and(min-width:1280px){.content-row{margin-left:-25px}.content-row{margin-right:-25px}.content-row #primary,.content-row #secondary{padding-left:25px !important}.content-row #primary,.content-row #secondary{padding-right:25px !important}}@media screen and(min-width:992px){}.site-footer{background:#022243;background:-moz-linear-gradient(to right,#022243,#083260);background:-webkit-linear-gradient(to right,#022243,#083260);background:-o-linear-gradient(to right,#022243,#083260);background:-ms-linear-gradient(to right,#022243,#083260);background:linear-gradient(to right,#022243,#083260);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr="#022243",endColorstr="#083260",GradientType=0)}
+</style>
+<link rel='stylesheet' id='tekhfixers-menu-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/menu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tekhfixers-video-popup-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/css/YouTubePopUp.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tekhfixers-style-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tekhfixers-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900&#038;subset=latin%2Clatin-ext&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/newsletter/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tawcvs-frontend-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/variation-swatches-for-woocommerce/assets/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
+<script type='text/javascript' id='jquery-core-js-extra'>
+
+</script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+
+</script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js' id='vc_woocommerce-add-to-cart-js-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/cmssuperheroes/assets/js/owl.carousel.min.js' id='owl-carousel-js'></script>
+<link rel="https://api.w.org/" href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<meta name="generator" content="WooCommerce 4.6.2" />
+<meta name="framework" content="Redux 4.1.23" />				<div id="wp-theme-tekhfixers" style="display:none;"></div>
+				<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style id="cms_theme_options-dynamic-css" title="dynamic-css" class="redux-options-output">body .primary-menu > li > a, body .primary-menu .sub-menu li a{font-display:swap;}.site-footer{}.site-footer .bottom-footer .footer-widget-title,.site-footer .top-footer .footer-widget-title{font-display:swap;}a{color:#b3bec8;}a:hover{color:#27e491;}a:active{color:#27e491;}body{font-display:swap;}h1,.h1,.text-heading{font-display:swap;}h2,.h2{font-display:swap;}h3,.h3{font-display:swap;}h4,.h4{font-display:swap;}h5,.h5{font-display:swap;}h6,.h6{font-display:swap;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="error404 theme-tekhfixers woocommerce-no-js hfeed visual-composer wpb-js-composer js-comp-ver-6.2.0 vc_responsive">
+<div id="page" class="site">
+   <div id="cms-loadding" class="cms-loader">
+   <div class="loading-spin">
+    <div class="spinner">
+     <div class="right-side">
+      <div class="bar"></div>
+     </div>
+     <div class="left-side">
+      <div class="bar"></div>
+     </div>
+    </div>
+    <div class="spinner color-2" style="">
+     <div class="right-side">
+      <div class="bar"></div>
+     </div>
+     <div class="left-side">
+      <div class="bar"></div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="menu-page-title has-page-title "  >
+  <div class="color-overlay"></div>
+  <header class="site-header">
+ <div id="site-header-wrap" class="header-layout   is-sticky">
+  <div class="clearfix">
+   <div id="headroom" class="site-header-main">
+    <div class="container">
+     <div class="row">
+      <a class="logo" href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/" title="TekhFixers - Mobile Device and Electronics Repair WordPress Theme" rel="home"><img src="http://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/images/logo.png" alt="TekhFixers - Mobile Device and Electronics Repair WordPress Theme"/></a><a class="logo logo-sticky" href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/" title="TekhFixers - Mobile Device and Electronics Repair WordPress Theme" rel="home"><img src="http://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/images/logo-blue.png" alt="TekhFixers - Mobile Device and Electronics Repair WordPress Theme"/></a>      <span class="btn-nav-mobile open-menu">
+                            <span></span>
+                        </span>
+      <nav id="site-navigation" class="main-navigation">
+       <ul id="mastmenu" class="primary-menu clearfix"><li id="menu-item-375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-375"><a href="#">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-43"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/">Home 1</a></li>
+	<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/home-2/">home 2</a></li>
+</ul>
+</li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-42"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/select-your-device-type/">Fix Your Device</a></li>
+	<li id="menu-item-776" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-776"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/services/screenrepair/">Single Service</a></li>
+	<li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-904"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/services/batteryreplacement/">Battery Replace</a></li>
+	<li id="menu-item-775" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-775"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/services/camerarepair/">Camera Repair</a></li>
+	<li id="menu-item-777" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-777"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/services/home-buttonrepair/">Home Button Repair</a></li>
+	<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-778"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/services/speakerrepair/">Speaker Repair</a></li>
+</ul>
+</li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/shop/">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-1666" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1666"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/product/iphone-x-rubber-bumper-case-18/">Product Page</a></li>
+	<li id="menu-item-740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-740"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/my-account/">My account</a></li>
+	<li id="menu-item-743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/cart/">Cart</a></li>
+	<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/checkout/">Checkout</a></li>
+</ul>
+</li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-47"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/blog-grid/">Latest News</a>
+<ul class="sub-menu">
+	<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-49"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/blog/">Lastest News</a></li>
+	<li id="menu-item-774" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-774"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/the-easiest-way-to-apply-a-screen-protector/">Blog Post</a></li>
+</ul>
+</li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="#">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-692"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/about-us/">About Us</a></li>
+	<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/frequently-asked-questions/">FAQ</a></li>
+	<li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/gallery/">Gallery</a></li>
+</ul>
+</li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/contact/">Contact Us</a></li>
+</ul>             </nav>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</header>  <div class="page-title-container">
+     </div>
+ </div>
+ <div id="content" class="site-content">
+  <div class="content-inner" >
+       <svg
+     style="fill: #B8F6DB; top:0px;bottom:"
+     id="svg-top" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     preserveAspectRatio="xMidYMid" width="195.875" height="1318.28" viewBox="0 0 195.875 1318.28">
+     <defs>
+      <filter id="gradient-overlay-2" filterUnits="userSpaceOnUse">
+       <feImage x="-829.406" y="0" width="1025.281" height="1318.2800000000002" preserveAspectRatio="none"
+                xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTAyNS4yODEiIGhlaWdodD0iMTMxOC4yODAwMDAwMDAwMDAyIj48bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB5MT0iMTQ2LjUiIHgyPSIxMDI1LjI4IiB5Mj0iMTE3MS43OCI+CiAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMWJkZDg4Ii8+CiAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzJlYjlhIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz48L3N2Zz4="/>
+       <feComposite operator="in" in2="SourceGraphic"/>
+       <feBlend in2="SourceGraphic" result="gradientFill"/>
+      </filter>
+     </defs>
+     <path style="fill: #B8F6DB"
+      d="M-540.968,20.684 C-540.968,20.684 -687.378,86.487 -694.760,174.843 C-702.142,263.200 -643.186,274.374 -667.132,338.769 C-691.079,403.164 -765.483,413.324 -785.981,496.763 C-807.750,585.376 -722.107,571.956 -727.171,690.819 C-732.235,809.683 -978.187,852.597 -688.556,1167.735 C-398.925,1482.874 -139.906,1235.432 -115.898,1040.448 C-91.891,845.463 42.695,803.563 95.851,754.793 C149.006,706.023 316.246,497.102 46.140,203.210 C-223.966,-90.683 -540.968,20.684 -540.968,20.684 Z"
+      class="cls-2"/>
+    </svg>
+   
+       <svg
+     style="top:;bottom:0px"
+     id="svg-bottom" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     preserveAspectRatio="xMidYMid" width="446.28" height="1030.78" viewBox="0 0 446.28 1030.78">
+     <defs>
+      <filter id="gradient-overlay-3" filterUnits="userSpaceOnUse">
+       <feImage x="0" y="0" width="1318.16" height="1030.7800000000002" preserveAspectRatio="none"
+                xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTMxOC4xNiIgaGVpZ2h0PSIxMDMwLjc4MDAwMDAwMDAwMDIiPjxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxNDMuNjkiIHgyPSIxMTc0LjQ3IiB5Mj0iMTAzMC43OCI+CiAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDIyMjQzIi8+CiAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDgzMjYwIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiLz48L3N2Zz4="/>
+       <feComposite operator="in" in2="SourceGraphic"/>
+       <feBlend in2="SourceGraphic" result="gradientFill"/>
+      </filter>
+     </defs>
+     <path style="fill: #ABB8C3;"
+      d="M1299.583,301.566 C1299.583,301.566 1235.945,154.230 1147.697,145.545 C1059.449,136.859 1047.402,195.631 983.361,170.740 C919.320,145.850 910.260,71.319 827.122,49.594 C738.831,26.523 750.985,112.336 632.195,105.517 C513.405,98.698 474.127,-147.810 154.703,137.070 C-164.720,421.950 78.893,684.543 273.525,711.425 C468.157,738.308 508.066,873.470 556.051,927.329 C604.035,981.187 810.485,1151.462 1108.374,885.787 C1406.264,620.113 1299.583,301.566 1299.583,301.566 Z"
+      class="cls-3"/>
+    </svg>
+   
+ <div id="primary" class="content-area">
+  <main id="main" class="site-main">
+   <div class="row">
+    <div class="col-12">
+     <section class="error-404 text-center">
+      <header>
+       <h1>404</h1>
+      </header><!-- .page-title -->
+      <div class="page-content">
+       <h3>OH PAGE NOT FOUND</h3>
+       <p>Sorry, you walked in on the wrong file.</p>
+       <a class="button"
+          href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/">Back to home</a>
+      </div><!-- .page-content -->
+      <img src="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/images/404.png"
+           alt="404 page">
+     </section><!-- .error-404 -->
+    </div>
+   </div>
+  </main><!-- #main -->
+ </div><!-- #primary -->
+
+
+</div><!-- #content inner -->
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer footer-layout1 ft-main-r">
+ <div class="container">
+     <div class="top-footer">
+    <div class="row">
+     <div class="col-lg-7 text-center text-left-lg">
+      <h3 class="ft-newsletter-heading footer-widget-title">Free Monthly Newsletter</h3>
+      <p class="ft-newsletter-text">Subscribe to our newsletter for all the latest news and cool tips and tricks to keep your <br />
+mobile devices safe &amp; secure. We promise we never spam, and you can unsubscribe easily.</p>
+     </div>
+     <div class="col-lg-5 text-center text-right-lg">
+      <form method="post" action="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/?na=s" class="tnp-subscription" style="">
+<input type="hidden" name="nlang" value=""><div class="tnp-field tnp-field-email"><label for="tnp-email"></label>
+<input class="tnp-email" type="email" name="ne" value="" required></div>
+<div class="tnp-field tnp-field-button"><input class="tnp-button" type="submit" value="Subscribe"></div></form>     </div>
+    </div>
+   </div>
+    <div class="bottom-footer">
+   <div class="row">
+    <div class="cms-footer-item col-xl-4 col-lg-12 col-md-12 col-sm-12"><section id="media_image-2" class="widget widget_media_image"><img width="205" height="43" src="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/uploads/2018/09/logo-white.png" class="image wp-image-254  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></section><section id="text-2" class="widget widget_text">			<div class="textwidget"><p>Vivamus consectetur est elit, et scelerisque urna efficitur vitae. Cras maximus ultricies volutpat. Praesent ut enim non enim vulputate fringilla.</p>
+</div>
+		</section><section id="cs_social_widget-3" class="widget widget_cs_social_widget"><ul class='cms-social'><li><a target="_blank" href="#"><i class="zmdi zmdi-facebook"></i><span>Facebook</span></a></li><li><a target="_blank" href="#"><i class="zmdi zmdi-twitter"></i><span>Twitter</span></a></li><li><a target="_blank" href="#"><i class="zmdi zmdi-google-plus"></i><span>Google+</span></a></li><li><a target="_blank" href="#"><i class="zmdi zmdi-linkedin"></i><span>Linkedin</span></a></li></ul></section></div><div class="cms-footer-item col-xl-3 col-lg-4 col-md-6 col-sm-6"><section id="nav_menu-2" class="widget widget_nav_menu"><h2 class="footer-widget-title">Pages</h2><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-757"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/">Home</a></li>
+<li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/services/">Services</a></li>
+<li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-760"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/shop/">Shop</a></li>
+<li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-758"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/frequently-asked-questions/">FAQ</a></li>
+<li id="menu-item-761" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-761"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/services/screenrepair/">Fix my Phone</a></li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/contact/">Contact</a></li>
+</ul></div></section></div><div class="cms-footer-item col-xl-3 col-lg-4 col-md-6 col-sm-6"><section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="footer-widget-title">Services</h2><div class="menu-services-container"><ul id="menu-services" class="menu"><li id="menu-item-764" class="menu-item menu-item-type-taxonomy menu-item-object-service-type menu-item-764"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/service-type/mobile-repair/">Mobile Repair</a></li>
+<li id="menu-item-768" class="menu-item menu-item-type-taxonomy menu-item-object-service-type menu-item-768"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/service-type/tablet-repair/">Tablet Repair</a></li>
+<li id="menu-item-763" class="menu-item menu-item-type-taxonomy menu-item-object-service-type menu-item-763"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/service-type/laptop-repair/">Laptop Repair</a></li>
+<li id="menu-item-765" class="menu-item menu-item-type-taxonomy menu-item-object-service-type menu-item-765"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/service-type/pc-mac-repair/">Pc &#038; Mac Repair</a></li>
+<li id="menu-item-767" class="menu-item menu-item-type-taxonomy menu-item-object-service-type menu-item-767"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/service-type/smartwatch-repair/">Smartwatch Repair</a></li>
+<li id="menu-item-766" class="menu-item menu-item-type-taxonomy menu-item-object-service-type menu-item-766"><a href="https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/service-type/servicing-maintenance/">Servicing &#038; Maintenance</a></li>
+</ul></div></section></div><div class="cms-footer-item col-xl-2 col-lg-4 col-md-6 col-sm-12 no-padding"><section id="cs_contact_info-2" class="widget widget_cs_contact_info"><h2 class="footer-widget-title">Contact</h2>  <div class="footer-quick-contact">
+   <ul>
+         <li class="clearfix">Phone: <a
+       href="tel:18881234567">+1 888 123 4567</a>
+     </li>
+             <li class="clearfix mail-to">Email: <a
+       href="mailto:hello@tekhfixers.com">hello@tekhfixers.com</a></li>
+             <li class="clearfix">Find Us: <a
+       href="https://maps.google.com/?q=TekhFixers,-513-Kings-Rd,-London,‌‌‌‌‌‌‌‌-SW10-0TX"
+       target="_blank">TekhFixers, 513 Kings Rd, London,‌‌‌‌‌‌‌‌ SW10 0TX</a></li>
+       </ul>
+  </div>
+  </section></div>   </div>
+   <div class="row">
+    <div class="bottom-col1  text-left-lg text-center text-copy-right">
+     <p> Copyright &copy; 2020. TekhFixers by <a target="_blank" href="https://cmssuperheroes.com/">CMSSuperheroes</a>. All Rights Reserved  </p>    </div>
+   </div>
+  </div>
+ </div>
+</footer>
+ <a href="#" class="scroll-top"><i class="zmdi zmdi-long-arrow-up"></i></a>
+
+</div><!-- #page -->
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/tekhfixers-app/assets/js/service-options.js' id='service-options-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/js/jquery/ui/widget.min.js' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/js/jquery/ui/mouse.min.js' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/js/jquery/ui/sortable.min.js' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/bootstrap.min.js' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/cmssuperheroes/assets/js/cms-front.js' id='cms-front-js-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/demo.cmssuperheroes.com\/themeforest\/wp-tekhfixers\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/contact-form-7/includes/js/scripts.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/swa-demo-bar/assets/js/swadmb-front.js' id='swadmb-front.js-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/tekhfixers-app//assets/js/countrySelect.js' id='countrySelect.js-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/tekhfixers-app/assets/js/acm-front.js' id='acm-front.js-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/js/jquery/ui/tabs.min.js' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/timetable/js/jquery.ba-bbq.min.js' id='jquery-ba-bqq-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/timetable/js/jquery.carouFredSel-6.2.1-packed.js' id='jquery-carouFredSel-js'></script>
+
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/timetable/js/timetable.js' id='timetable_main-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
+
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js' id='woocommerce-js'></script>
+
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/popper.js' id='popper-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/headroom.min.js' id='headroom-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/headroom.js' id='tekhfixers-headroom-js'></script>
+<script type='text/javascript' src='//code.jquery.com/ui/1.11.1/jquery-ui.min.js' id='jquery-ui-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/nice-select.min.js' id='nice-select-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/enscroll.js' id='enscroll-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/match-height-min.js' id='match-height-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/sidebar-scroll-fixed.js' id='tekhfixers-sidebar-fixed-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/magnific-popup.min.js' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/tilt.jquery.min.js' id='tilt-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/YouTubePopUp.jquery.js' id='tekhfixers-video-popup-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/TweenMax.min.js' id='tekhfixers-tweenmax-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js' id='isotope-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/themes/tekhfixers/assets/js/main.js' id='tekhfixers-main-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-content/plugins/variation-swatches-for-woocommerce/assets/js/frontend.js' id='tawcvs-frontend-js'></script>
+<script type='text/javascript' src='https://demo.cmssuperheroes.com/themeforest/wp-tekhfixers/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+</body>
+</html>

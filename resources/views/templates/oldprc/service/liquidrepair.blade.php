@@ -1,0 +1,151 @@
+@extends('templates.prc.layouts.prcapp')
+<style id="themesflat-style-inline-css" type="text/css">
+.page-title {
+	background-image:
+		url(/img/page-title.jpg)
+}
+
+
+</style>
+		@section('content')
+		<div class="page-title pagetitle_style_2">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 page-title-container">
+						<div class="breadcrumb-trail breadcrumbs">
+							<span class="trail-browse"></span> <span class="trail-begin"><a
+								href="{{ ('/')}}"
+								title="PhoneRepairCenter" rel="home">Home</a></span> <span class="sep">&gt;</span>
+							<span class="trail-end">Liquid Damage</span>
+						</div>
+						<div class="page-title-heading">
+							<h1 class="title">Liquid Damage</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="content" class="page-wrap sidebar-left">
+			<div class="container content-wrapper">
+				<div class="row">
+					<div class="col-md-12">
+						<div id="primary" class="content-area-full-width">
+							<main id="main" class="site-main" role="main">
+							<div class="vc_row wpb_row vc_row-fluid">
+								<div class="wpb_column vc_column_container vc_col-sm-12">
+									<div class="vc_column-inner ">
+										<div class="wpb_wrapper">
+											<div class="vc_empty_space" style="height: 50px">
+												<span class="vc_empty_space_inner"></span>
+											</div>
+											<div class="wpb_text_column wpb_content_element ">
+												<div class="wpb_wrapper">
+													<h4 style="font-size: 30px; text-align: center;">Liquid
+														Damage</h4>
+													<p></p>
+													<center>
+														<img class="aligncenter lazyloaded"
+															src="/img/border.jpg"
+															data-lazy-src="/img/border.jpg"
+															data-was-processed="true">
+														
+													</center>
+													<p></p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="vc_row wpb_row vc_row-fluid">
+								<div class="wpb_column vc_column_container vc_col-sm-12">
+									<div class="vc_column-inner ">
+										<div class="wpb_wrapper">
+											<div class="vc_empty_space" style="height: 50px">
+												<span class="vc_empty_space_inner"></span>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="wpb_column vc_column_container vc_col-sm-6">
+									<div class="vc_column-inner ">
+										<div class="wpb_wrapper">
+											<div class="wpb_text_column wpb_content_element ">
+												<div class="wpb_wrapper">
+													<div class="ajft_contents">
+														<p>
+															<strong>Liquid Damage Service for:</strong>
+														</p>
+														<div>
+															Liquid damage is the one of the most common damage to
+															your devices. This damage is just not because of the
+															exposure of your device to water but many other liquids
+															like moisturizer, perfume etc. also contributes to such
+															damages. Foreign liquids leads to corrosion &amp;
+															oxidation, resistance begins to drop, components break
+															down and the solder joints will suffer as the corrosion
+															spreads.
+															<p></p>
+															<p>Only a professional chemical cleanup makes your
+																device strong enough to withstand such damages. Phone
+																Repair Centre offers efficient and affordable
+																professional solutions to liquid damages in less
+																turnaround time with authenticity.Game</p>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="wpb_column vc_column_container vc_col-sm-6">
+									<div class="vc_column-inner ">
+										<div class="wpb_wrapper">
+											<div
+												class="wpb_single_image wpb_content_element vc_align_left">
+												<figure class="wpb_wrapper vc_figure">
+													<div class="vc_single_image-wrapper   vc_box_border_grey">
+														<img width="800" height="450"
+															src="/img/liquid_damage.jpg"
+															class="vc_single_image-img attachment-large lazyloaded"
+															alt=""
+															data-lazy-srcset="/img/liquid_damage.jpg 800w, /img/liquid_damage-300x169.jpg 300w, /img/liquid_damage-768x432.jpg 768w, /img/liquid_damage-570x320.jpg 570w, /img/liquid_damage-600x338.jpg 600w"
+															data-lazy-sizes="(max-width: 800px) 100vw, 800px"
+															data-lazy-src="/img/liquid_damage.jpg"
+															sizes="(max-width: 800px) 100vw, 800px"
+															srcset="/img/liquid_damage.jpg 800w, /img/liquid_damage-300x169.jpg 300w, /img/liquid_damage-768x432.jpg 768w, /img/liquid_damage-570x320.jpg 570w, /img/liquid_damage-600x338.jpg 600w"
+															data-was-processed="true">
+														
+													</div>
+												</figure>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="vc_row wpb_row vc_row-fluid">
+								<div class="wpb_column vc_column_container vc_col-sm-12">
+									<div class="vc_column-inner ">
+										<div class="wpb_wrapper">
+											<div class="vc_empty_space" style="height: 60px">
+												<span class="vc_empty_space_inner"></span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							</main>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		@endsection
+    
+        @section('afterBottom')
+
+        
+		
+		@endsection

@@ -1,0 +1,1440 @@
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:10] local.ERROR: 2022-08-27 02:27:10:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:35] local.ERROR: 2022-08-27 02:27:35:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:39] local.ERROR: 2022-08-27 02:27:39:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:47] local.ERROR: 2022-08-27 02:27:47:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:27:57] local.ERROR: 2022-08-27 02:27:57:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:19] local.ERROR: 2022-08-27 02:28:19:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:20] local.ERROR: 2022-08-27 02:28:20:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:23] local.ERROR: 2022-08-27 02:28:23:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:29] local.ERROR: 2022-08-27 02:28:29:
+```View [templates.prc.notfound] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:32] local.ERROR: 2022-08-27 02:28:32:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework/sessions/K7G0DzWUEVU0LuL9h7RYxPm6WvV4qH377H93rkxP): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:44] local.ERROR: 2022-08-27 02:28:44:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:46] local.ERROR: 2022-08-27 02:28:46:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```View [templates.prc.mainpage.home] not found.```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php`, *Line:* 137, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  
+[2022-08-27 02:28:49] local.ERROR: 2022-08-27 02:28:49:
+```Uncaught ErrorException: file_put_contents(D:\xampp\htdocs\phone\storage\framework\views/98dc1e92830d29a2f2bd7ab4b59656f38fbcb012.php): failed to open stream: No such file or directory in /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:135
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/Users/manojkum...', 135, Array)
+#1 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(135): file_put_contents('D:\\xampp\\htdocs...', '<?php $__env->s...', 0)
+#2 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(150): Illuminate\Filesystem\Filesystem->put('D:\\xampp\\htdocs...', '<?php $__env->s...')
+#3 /Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/Users/manojku```
+*File* `/Users/manojkumar/Sites/prc.repair.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php`, *Line:* 135, *Code:* 0
+
+  

@@ -1,0 +1,38 @@
+<?php
+return [
+    'id' => 'ID',
+    'page_name' => 'Page Name',
+    'page' => 'Page',
+    'keyword' => 'Keyword',
+    'content' => 'Content',
+    'status' => 'Status',
+    'sort' => 'Sort',
+    'admin' => [
+        'title' => 'Page Content manager',
+        'create_success' => 'Create new item success!',
+        'edit_success' => 'Edit item success!',
+        'list' => 'List Page Content manager',
+        'id' => 'ID',
+        'status' => 'Status',
+        'action' => 'Action',
+        'edit' => 'Edit',
+        'export' => 'Export',
+        'delete' => 'Delete',
+        'refresh' => 'Refresh',
+        'result_item' => 'Showing <b>:item_from</b> to <b>:item_to</b> of <b>:item_total</b> items</b>',
+        'sort' => 'Sort',
+        'search' => 'Search',
+        'add_new' => 'Add new',
+        'add_new_title' => 'Add New',
+        'add_new_des' => 'Create a new keyword content',
+        'select_group' => 'Select group',
+        'select_target' => 'Select target',
+        'helper_url' => 'Ex: url, path, or route::name',
+        'search_place' => '',
+        'sort_order' => [
+        ],
+    ],
+    'config_manager' => [
+        'title' => 'Config URL',
+    ],
+];
