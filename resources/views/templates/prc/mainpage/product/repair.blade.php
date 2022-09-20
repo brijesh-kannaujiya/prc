@@ -386,6 +386,24 @@
             background-repeat: no-repeat !important;
             background-size: contain !important;
         }
+
+        .mkGetEasyShareLinks-wrap {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    margin-bottom: 1rem;
+}
+.mk-any-share-links a {
+    margin-right: 10px;
+}
+ 
+.mk-any-share-links svg {
+    height: 18px;
+    width: 18px;
+    top: 3px;
+    position: relative;
+}
     </style>
 @endsection
 @section('content')
@@ -410,6 +428,11 @@
     </div>
     </div>
     </div>
+
+
+    
+
+
     <div id="content" class="site-content">
         <div class="content-inner">
 
@@ -486,7 +509,7 @@
                                     <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-8 vc_col-md-8">
                                         <div class="vc_column-inner">
                                             <div class="wpb_wrapper">
-                                                <div id="cms-heading"
+                                            <div id="cms-heading"
                                                      class="cms-heading  align-left align-left-md align-left-sm align-left-xs ">
                                                     <h3 class="cms-heading-tag  "
                                                         style="margin-bottom: 20px; color: #083260; font-size: 54px; letter-spacing: -.016em; text-transform: none; font-weight: 400; font-style: normal; display: inline-block;">
@@ -507,25 +530,72 @@
                                                             <div class="wpb_wrapper">
                                                                 <div id="fr-grid-device-category"
                                                                      class="cms-grid fr-grid fr-grid-device-category default  ">
-                                                                    <div class="row">
-                                                                        <div style=" border-radius: 10px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.11);width: 100%">
-                                                                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12"
-                                                                                 style="text-align: center;height: auto;padding: 5px">
+                                                                    <div class="row"> 
+                                                                            <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12"
+                                                                                 style="text-align: center;height: auto;padding: 5px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.11);width: 100%" >
                                                                                 <img src="{{ $repair->image  }}"
                                                                                      id="product-image"
                                                                                      style="max-width: 450px;max-height: 450px;"/>
                                                                             </div>
-                                                                        </div>
-                                                                        @unless(empty($productrepairprice->price_range))
-                                                                            <div class="col-sm-12"
-                                                                                 style="background: #fad33c;margin: 5px;text-align: center;border-radius: 30px">
-                                                                                <p style="color: #00303e;margin: 10px auto;">
-                                                                                    Repair Price :
-                                                                                    {{$productrepairprice->price_range}}
-                                                                                </p>
-                                                                            </div>
-                                                                        @endunless
-                                                                        @if(empty($productrepairprice->price_range))
+                                                                            <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
+                                                                           
+
+
+
+
+
+                                                                            <div class="mkGetEasyShareLinks-wrap">
+                        
+                        <div class="mk-any-share-links wow animate__flipInX" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: flipInX;">
+                            <a style="color: inherit !important;">&nbsp;&nbsp; Share this:</a>
+                            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{url()->current()}}">
+                                <i class="fa fa-facebook"></i>
+                                <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/facebook.svg" class="img-fluid d-none" alt="facebook">
+                            </a>
+                    
+                            <a target="_blank" href="https://twitter.com/intent/tweet?text=Awesome%20Blog!&amp;url={{url()->current()}}">
+                                <i class="fa fa-twitter"></i>
+                                <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/twitter.svg" class="img-fluid d-none" alt="twitter">
+                            </a>
+                    
+                            <a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{url()->current()}}">
+                                <i class="fa fa-linkedin"></i>
+                                <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/linkedin.svg" class="img-fluid d-none" alt="linkedin">
+                            </a>
+                    
+                            <a target="_blank" href="https://wa.me/?text={{url()->current()}}/">
+                                <i class="fa fa-whatsapp"></i>
+                                <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/whatsapp.svg" class="img-fluid d-none" alt="whatsapp">
+                            </a>
+                    
+                    
+                    
+                            <a target="_blank" href="https://www.blogger.com/blog_this.pyra?u={{url()->current()}}">
+                                <!-- <i class="fa fa-blogger"></i> -->
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M22.814 9.031h-1.95c-1 0-1.185-.764-1.185-1.707.001-4.045-3.272-7.324-7.308-7.324h-5.062c-4.037 0-7.309 3.279-7.309 7.324v9.352c0 4.045 3.272 7.324 7.309 7.324h9.383c4.036 0 7.308-3.279 7.308-7.324v-6.457c0-.657-.531-1.188-1.186-1.188zm-15.428-3.031h4.229c.765 0 1.385.671 1.385 1.5s-.62 1.5-1.386 1.5h-4.228c-.766 0-1.386-.671-1.386-1.5s.62-1.5 1.386-1.5zm9.134 12h-9.04c-.817 0-1.48-.672-1.48-1.5 0-.83.663-1.5 1.48-1.5h9.039c.817 0 1.48.67 1.48 1.5.001.828-.662 1.5-1.479 1.5z"></path>
+                                </svg>
+                                <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/blogger.svg" class="img-fluid d-none" alt="blogger">
+                            </a>
+                    
+                            <!-- <a href="javascript:void(0)" onclick="mkCopyCurrentPageUrl()">
+                                <i class="fa fa-link"></i>
+                            </a> -->
+                        </div>
+                                        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            @if(empty($productrepairprice->price_range))
                                                                             <div class="col-sm-12"
                                                                                  style="background: #fad33c;margin: 5px;text-align: center;border-radius: 30px">
                                                                                 <p style="color: #00303e;margin: 10px auto;">
@@ -534,7 +604,12 @@
                                                                                 </p>
                                                                             </div>
                                                                         @endif
+                                                                     
                                                                         {!! sc_html_render($repair->content) !!}
+                                                                            </div> 
+                                                                             
+                                                                        
+                                                                       
                                                                     </div>
 
                                                                 </div>

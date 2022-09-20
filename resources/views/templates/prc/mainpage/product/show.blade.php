@@ -207,24 +207,199 @@
         }
     }
 </style>
+
+<style> 
+ .resource-page-sidebar-col-wrap {
+                background-color: #fff;
+                position: fixed;
+                top: 0;
+                left: -310px;
+                z-index: 1000;
+                width: 300px;
+                height: 100%;
+                -webkit-transition-duration: .5s;
+                transition-duration: .5s;
+                padding: 15px;
+                box-shadow: 0 5px 20px rgb(0 0 0 / 10%);
+                display: block;
+                overflow-x: hidden;
+                overflow-y: scroll;
+
+            }
+
+            .resource-page-sidebar-col-wrap .closebtn {
+                position: absolute;
+                top: 0;
+                right: 25px;
+                font-size: 36px;
+                margin-left: 50px;
+            }
+
+            a.closeResourceSidebar {
+                position: absolute;
+                top: 15px;
+                right: 15px;
+                z-index: 10;
+                display: block;
+                font-size: 22px;
+                line-height: 1.4;
+            }
+        }
+
+        @media screen and (max-width:576px) {
+            .header-product-search {
+                display: block !important;
+            }
+
+            .mk-repair-item-wrap .image-item {
+                height: 130px;
+                width: 130px;
+            }
+
+            .mk-repair-item-wrap .image-item>a {
+                height: 100px;
+                width: 100px;
+            }
+        }
+
+        /* end manoj custom */
+        .caret {
+            cursor: pointer;
+            user-select: none;
+            /* Prevent text selection */
+        }
+
+        /* Create the caret/arrow with a unicode, and style it */
+        .caret::before {
+            content: "\25B6";
+            color: black;
+            display: inline-block;
+            margin-right: 6px;
+        }
+
+        /* Rotate the caret/arrow icon when clicked on (using JavaScript) */
+        .caret-down::before {
+            transform: rotate(90deg);
+        }
+
+        /* Hide the nested list */
+        .nested {
+            display: none;
+        }
+
+        /* Show the nested list when the user clicks on the caret/arrow (with JavaScript) */
+        .active {
+            display: block;
+        }
+
+        #loadMore {
+            padding-bottom: 30px;
+            padding-top: 30px;
+            text-align: center;
+            width: 100%;
+        }
+
+        #loadMore a {
+            background: #042a63;
+            border-radius: 3px;
+            color: white;
+            display: inline-block;
+            padding: 10px 30px;
+            transition: all 0.25s ease-out;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        #loadMore a:hover {
+            background-color: #021737;
+        }
+
+        @media screen and (max-width:991px) {
+
+.mk-no-results-wrap button {
+    display: inline-block;
+}
+
+div#tidio-chat {
+    display: none;
+}
+
+.floating-button-resource-page {
+    display: inline-block;
+    position: fixed;
+    cursor: pointer;
+    z-index: 99 !important;
+    font-size: 15px !important;
+    padding: 10px 15px !important;
+    transform: translate(-50%, -50%) !important;
+    bottom: 10px !important;
+    left: 50% !important;
+    background: var(--secondary-color);
+    color: #fff;
+    border-radius: 50px;
+    width: max-content;
+}
+
+.floating-button-resource-page i {
+    font-size: 20px;
+}
+
+.resource-page-sidebar-col-wrap {
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    left: -310px;
+    z-index: 1000;
+    width: 300px;
+    height: 100%;
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
+    padding: 15px;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 10%);
+    display: block;
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+}
+
+.resource-page-sidebar-col-wrap .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+a.closeResourceSidebar {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 10;
+    display: block;
+    font-size: 22px;
+    line-height: 1.4;
+}
+}
+</style>
 </div>
 </div>
-<div class="container">
-    <div style="padding: 2%;">
+<div class="container-fuild">
+    <div style="padding: 2%; background: whitesmoke; text-align: center;">
     <a href="{{ route('product.showbrand') }}">All Brands</a> > <a href="{{ route('product.cat', $brand->alias) }}"> {{ $brand->name }}</a> > <a href="{{ route('product.category', [$brand->alias,$cat->alias]) }}">{{$cat->title}}</a> > {{ $product->name }}
 </div> 
-
-
-
-
-
-<div class="browser-faults-float-btn" style="display: none;">
-    <a href="#"  onclick="openResourceNav()">
-        Browse Faults
-    </a>
 </div>
 
-<div id="resource-page-sidebar-col-wrap" class="col-md-12 col-lg-4 resource-page-sidebar-col-wrap" style="display: none;">
+<div class="container">
+
+
+
+<div class="browser-faults-float-btn">
+    <a href="#"  onclick="openResourceNav()">
+        Browse  Category
+    </a>
+</div>
+ <div class="row">
+
+<div id="resource-page-sidebar-col-wrap" class="col-md-12 col-lg-4 resource-page-sidebar-col-wrap">
                                             <a href="javascript:void(0)" class="closeResourceSidebar" onclick="closeNav()">×</a>
                                             <div class="resource-page-sidebar">
                                                 <form id="productSearchForm">
@@ -268,7 +443,9 @@
                                                                                     <!-- <a href="/prc/brand/{{$item->alias}}/{{$cat->alias}}">
                                                                                                 {{$cat->description->title}}
                                                                                     </a> -->
-                                                                                    <a href="javascript:void(0)" data-category-title="{{$cat->description->title}}" data-categoryId="{{$cat->id}}" id="categoryActive{{$cat->id}}" class="categoryActive">
+                                                                                   
+                                                                                </span>
+                                                                                <a href="/prc/brand/{{$item->alias}}/{{$cat->alias}}" data-category-title="{{$cat->description->title}}" data-categoryId="{{$cat->id}}" id="categoryActive{{$cat->id}}" class="categoryActive">
                                                                                         {{$cat->description->title}}
                                                                                     </a>
                                                                                     <a href="javascript:void(0)" onclick="resetCatIDFilter()">
@@ -276,7 +453,6 @@
                                                                                             <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
                                                                                         </svg>
                                                                                     </a>
-                                                                                </span>
                                                                                             @if($i==0)
                                                                                                 <input type="hidden" id="defaultitem" value="{{$cat->id}}" />
                                                                                             @endif
@@ -455,7 +631,10 @@
 <div class="col-md-12 mt-4">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+
+
+        
+            <div class="col-md-12 col-lg-8">
                 <div style="text-align: left;background-color: #F4F4F4;font-size: 20px;font-weight: bolder;padding: 10px;color: grey">SPECIFICATIONS</div>
                 @foreach($groupAtt as $k=>$v)
                 <table style="width: inherit">
@@ -477,24 +656,27 @@
         </div>
     </div>
 </div>
-
+</div>
 
 
 @push('js')
-
+<script src="{{ asset('admin/AdminLTE/bower_components/jquery/dist/jquery.min.js')}}"></script>
 <script>
-   function openResourceNav() {
-            document.getElementById("resource-page-sidebar-col-wrap").style.left ='0';
-            document.getElementById("resource-page-sidebar-col-wrap").style.display = "block";
+
+    function openResourceNav() {
+            document.getElementById("resource-page-sidebar-col-wrap").style.left = "0";
             $('body').addClass('openResourceNav');
         }
 
         function closeNav() {
             document.getElementById("resource-page-sidebar-col-wrap").style.left = "-310px";
-            document.getElementById("resource-page-sidebar-col-wrap").style.display = "none";
             $('body').removeClass('openResourceNav');
         }
 
+        $('.caret').on('click',function(){
+
+            $(this).parents('li.categories').find('ul.nested').toggle();
+})
 </script>
 
 @endpush

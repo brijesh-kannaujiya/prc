@@ -744,7 +744,7 @@ class ShopFront extends GeneralController
 
         $res['cardHtml'] = $cardHtml; // card html
         $res['products'] = $productList;
-
+        $res['productsHtmlWrap'] = '<h4>Choose Your Category';
         return response()->json($res);
     }
 

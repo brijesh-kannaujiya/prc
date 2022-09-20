@@ -745,11 +745,14 @@
                                                                                     @php $i=0; @endphp
                                                                                     @foreach($item->categories as $cat)
                                                                                         <li class="categories">
+                                                                                        
                                                                                 <span class="caret">
                                                                                     <!-- <a href="/prc/brand/{{$item->alias}}/{{$cat->alias}}">
                                                                                                 {{$cat->description->title}}
                                                                                     </a> -->
-                                                                                    <a href="javascript:void(0)" data-category-title="{{$cat->description->title}}" data-categoryId="{{$cat->id}}" id="categoryActive{{$cat->id}}" class="categoryActive">
+                                                                                   
+                                                                                </span>
+                                                                                 <a href="javascript:void(0)" data-category-title="{{$cat->description->title}}" data-categoryId="{{$cat->id}}" id="categoryActive{{$cat->id}}" class="categoryActive">
                                                                                         {{$cat->description->title}}
                                                                                     </a>
                                                                                     <a href="javascript:void(0)" onclick="resetCatIDFilter()">
@@ -757,7 +760,6 @@
                                                                                             <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
                                                                                         </svg>
                                                                                     </a>
-                                                                                </span>
                                                                                             @if($i==0)
                                                                                                 <input type="hidden" id="defaultitem" value="{{$cat->id}}" />
                                                                                             @endif
@@ -823,8 +825,8 @@
 
                                             <div style="display: none;" class="col-md-12 selectedCategoryWrap">
                                                 <p>
-                                                    <b>Searched category: </b> <span class="selectedSearchCategoryText"></span>
-                                                    <a onclick="resetCatIDFilter()" href="javascript:void(0)">
+                                                    <b id="SearchedAreia">Searched category: </b> <span class="selectedSearchCategoryText"></span>
+                                                    <a onclick="resetSearchFilters()" href="javascript:void(0)">
                                                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
                                                             <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"></path>
                                                         </svg>
@@ -850,7 +852,7 @@
 
                                             <div class="col-md-12 itemContentWrap" style="display:none ;">
                                                 <div class="row">
-                                                    <div class="col-md-12">
+                                                    <div class="col-md-12" id="productsHtmlmodel">
                                                         <h4>Choose Your Model</h4>
                                                     </div>
                                                 </div>
@@ -989,6 +991,8 @@
             productSearchFormEl.trigger("reset");
             catArchiveEls.removeClass('active'); // unset active class from selected category
             catIDEL.val(''); // do blank category id filter
+              $('#SearchedAreia').text('')
+                         selectedCategoryWrap.hide();
             setTimeout(function() {
                 // showProducts();
                 showBrands();
@@ -1099,13 +1103,13 @@
 
 
             // set category
-            if (catIDEL.val()) {
-                // selectedSearchCategoryText.text(lastSelectedCategoryEL.attr('data-category-title'));
-                // selectedCategoryWrap.show();
-            } else {
-                selectedSearchCategoryText.text("");
-                selectedCategoryWrap.hide();
-            }
+            // if (catIDEL.val()) {
+            //     selectedSearchCategoryText.text(lastSelectedCategoryEL.attr('data-category-title'));
+            //     selectedCategoryWrap.show();
+            // } else {
+            //     selectedSearchCategoryText.text("");
+            //     selectedCategoryWrap.hide();
+            // }
 
 
             console.log("setSelectedSearchTextFilter");
@@ -1129,6 +1133,7 @@
             let noResultsWrap = $('.mk-no-results-wrap');
             let itemContentWrap = $('.itemContentWrap');
             let productsHtmlWrap = $('.productsHtmlWrap');
+             let productsHtmlmodel = $('#productsHtmlmodel');
             let paginatonWrap = $('.paginatonWrap');
             let productPreloaderWrap = $('.productPreloaderWrap');
             // set default action url
@@ -1156,9 +1161,14 @@
                 success: function(res) {
                     productPreloaderWrap.hide();
                     if (res.succ) {
+                         productsHtmlmodel.html(res.productsHtmlWrap).show();
                         productsHtmlWrap.html(res.cardHtml).show(); // append content and show
                         paginatonWrap.html(res.pagination).show(); // append content and show
                         itemContentWrap.show(); // show main item wrapper
+
+                        selectedSearchCategoryText.text(res.barndname + '/' +res.category_name);
+                         $('#SearchedAreia').text('Searched Category :-')
+                         selectedCategoryWrap.show();
                     } else {
                         noResultsWrap.show();
                     }
@@ -1190,6 +1200,7 @@
             let noResultsWrap = $('.mk-no-results-wrap');
             let itemContentWrap = $('.itemContentWrap');
             let productsHtmlWrap = $('.productsHtmlWrap');
+             let productsHtmlmodel = $('#productsHtmlmodel');
             let paginatonWrap = $('.paginatonWrap');
             let productPreloaderWrap = $('.productPreloaderWrap');
             // set default action url
@@ -1219,6 +1230,7 @@
                 success: function(res) {
                     productPreloaderWrap.hide();
                     if (res.succ) {
+                        productsHtmlmodel.html(res.productsHtmlWrap).show();
                         productsHtmlWrap.html(res.cardHtml).show(); // append content and show
                         paginatonWrap.html(res.pagination).show(); // append content and show
                         itemContentWrap.show(); // show main item wrapper
@@ -1291,6 +1303,7 @@
             let noResultsWrap = $('.mk-no-results-wrap');
             let itemContentWrap = $('.itemContentWrap');
             let productsHtmlWrap = $('.productsHtmlWrap');
+            let productsHtmlmodel = $('#productsHtmlmodel');
             let paginatonWrap = $('.paginatonWrap');
             let productPreloaderWrap = $('.productPreloaderWrap');
             // set default action url
@@ -1314,10 +1327,17 @@
                 },
                 success: function(res) {
                     productPreloaderWrap.hide();
+                    $('#SearchedAreia').text('')
+                         selectedCategoryWrap.hide();
                     if (res.succ) {
+                         productsHtmlmodel.html(res.productsHtmlWrap).show();
                         productsHtmlWrap.html(res.cardHtml).show(); // append content and show
                         paginatonWrap.html(res.pagination).show(); // append content and show
                         itemContentWrap.show(); // show main item wrapper
+
+                         selectedSearchCategoryText.text(res.barndname);
+                         $('#SearchedAreia').text('Searched Brand :-')
+                         selectedCategoryWrap.show();
                     } else {
                         noResultsWrap.show();
                     }
@@ -1343,6 +1363,10 @@
             });
         }
 
+$('.caret').on('click',function(){
+
+    $(this).parents('li.categories').find('ul.nested').toggle();
+})
     </script>
 
 @endsection

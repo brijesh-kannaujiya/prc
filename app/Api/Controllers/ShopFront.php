@@ -170,9 +170,14 @@ class ShopFront extends GeneralController
             $res['succ'] = false;
         }
 
+        $brandes = ShopCategory::where('id',$catId)->first();
+        // dd($brandes);
+         $barndname = ShopBrand::where('id',$brandes->brand_id)->first();   
         $res['cardHtml'] = $cardHtml; // card html
         $res['products'] = $productList;
-
+        $res['productsHtmlWrap'] = '<h4>Choose Your Model';
+        $res['barndname'] = $barndname->name;
+        $res['category_name'] = $brandes->alias;
         return response()->json($res);
 
         // if ($productList) {
@@ -253,6 +258,8 @@ class ShopFront extends GeneralController
 
         $res['cardHtml'] = $cardHtml; // card html
         $res['products'] = $productList;
+
+        $res['productsHtmlWrap'] = '<h4>Choose Your Brand</h4>';
         // dd($res);
         return response()->json($res);
 
@@ -266,8 +273,7 @@ class ShopFront extends GeneralController
     public function getCategory($brand_id)
     {
         $productList = ShopCategory::where('brand_id',$brand_id)->paginate(20);
-
-
+        $barndname = ShopBrand::where('id',$brand_id)->first(); 
         // $siteURl = "https://prc.repair/prc/";
         $siteURl = url('/prc/');
         $res = array();
@@ -313,7 +319,8 @@ class ShopFront extends GeneralController
 
         $res['cardHtml'] = $cardHtml; // card html
         $res['products'] = $productList;
-
+        $res['barndname'] = $barndname->name; 
+        $res['productsHtmlWrap'] = '<h4>Choose Your Category</h4>';
         return response()->json($res);
     }
 
