@@ -384,7 +384,7 @@ a.closeResourceSidebar {
 </div>
 <div class="container-fuild">
     <div style="padding: 2%; background: whitesmoke; text-align: center;">
-    <a href="{{ route('product.showbrand') }}">All Brands</a> > <a href="{{ route('product.cat', $brand->alias) }}"> {{ $brand->name }}</a> > <a href="{{ route('product.category', [$brand->alias,$cat->alias]) }}">{{$cat->title}}</a> > {{ $product->name }}
+    <a href="{{ route('product.showbrand') }}">Brands</a> > <a href="{{ route('product.cat', $brand->alias) }}"> {{ $brand->name }}</a> > <a href="{{ route('product.category', [$brand->alias,$cat->alias]) }}">{{$cat->title}}</a> > {{ $product->name }}
 </div> 
 </div>
 
@@ -392,8 +392,8 @@ a.closeResourceSidebar {
 
 
 
-<div class="browser-faults-float-btn">
-    <a href="#"  onclick="openResourceNav()">
+<div class="browser-faults-float-btn" onclick="openResourceNav()">
+    <a href="#"  >
         Browse  Category
     </a>
 </div>
@@ -408,7 +408,7 @@ a.closeResourceSidebar {
                                                         <div id="fr-service-menu" class="fr-accordion">
                                                             <div class="content">
                                                                 <div class="page-title-inner ml-2">
-                                                                    <h4 class="page-title ft-heading-b">Filters</h4>
+                                                                    <h4 class="page-title ft-heading-b">Browse More</h4>
                                                                 </div>
                                                                 <!-- <div class="mb-4">
                                                                     <div class="row">
@@ -448,11 +448,11 @@ a.closeResourceSidebar {
                                                                                 <a href="/prc/brand/{{$item->alias}}/{{$cat->alias}}" data-category-title="{{$cat->description->title}}" data-categoryId="{{$cat->id}}" id="categoryActive{{$cat->id}}" class="categoryActive">
                                                                                         {{$cat->description->title}}
                                                                                     </a>
-                                                                                    <a href="javascript:void(0)" onclick="resetCatIDFilter()">
+                                                                                    <!-- <a href="javascript:void(0)" onclick="resetCatIDFilter()">
                                                                                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
                                                                                             <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z" />
                                                                                         </svg>
-                                                                                    </a>
+                                                                                    </a> -->
                                                                                             @if($i==0)
                                                                                                 <input type="hidden" id="defaultitem" value="{{$cat->id}}" />
                                                                                             @endif
