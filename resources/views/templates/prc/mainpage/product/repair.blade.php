@@ -569,22 +569,22 @@
                         
                         <div class="mk-any-share-links wow animate__flipInX" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: flipInX;">
                             <a style="color: inherit !important;">&nbsp;&nbsp; Share this:</a>
-                            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{url()->current()}}">
+                            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{url()->current()}}" style="color: #4267B2;">
                                 <i class="fa fa-facebook"></i>
-                                <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/facebook.svg" class="img-fluid d-none" alt="facebook">
+                                <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/facebook.svg" class="img-fluid d-none" alt="facebook" >
                             </a>
                     
-                            <a target="_blank" href="https://twitter.com/intent/tweet?text=Awesome%20Blog!&amp;url={{url()->current()}}">
+                            <a target="_blank" href="https://twitter.com/intent/tweet?text=Awesome%20Blog!&amp;url={{url()->current()}}" style="    color: #00acee;">
                                 <i class="fa fa-twitter"></i>
                                 <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/twitter.svg" class="img-fluid d-none" alt="twitter">
                             </a>
                     
-                            <a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{url()->current()}}">
+                            <a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{url()->current()}}" style="color:#0A66C2;">
                                 <i class="fa fa-linkedin"></i>
                                 <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/linkedin.svg" class="img-fluid d-none" alt="linkedin">
                             </a>
                     
-                            <a target="_blank" href="https://wa.me/?text={{url()->current()}}/">
+                            <a target="_blank" href="https://wa.me/?text={{url()->current()}}/" style="color: #34B7F1;">
                                 <i class="fa fa-whatsapp"></i>
                                 <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/whatsapp.svg" class="img-fluid d-none" alt="whatsapp">
                             </a>
