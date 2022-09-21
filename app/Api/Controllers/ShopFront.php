@@ -169,15 +169,23 @@ class ShopFront extends GeneralController
         } else {
             $res['succ'] = false;
         }
-
-        $brandes = ShopCategory::where('id',$catId)->first();
-        // dd($brandes);
+        if($catId){
+        $brandes = ShopCategory::where('id',$catId)->first(); 
          $barndname = ShopBrand::where('id',$brandes->brand_id)->first();   
+         $barndname = $barndname->name;
+         $category_name = $brandes->alias;
+         $category_id = $brandes->brand_id;
+        }else{
+            $barndname = null;
+            $category_name = Null;
+            $category_id = Null;
+        }
         $res['cardHtml'] = $cardHtml; // card html
         $res['products'] = $productList;
         $res['productsHtmlWrap'] = '<h4>Choose Your Model';
-        $res['barndname'] = $barndname->name;
-        $res['category_name'] = $brandes->alias;
+        $res['barndname'] = $barndname;
+        $res['category_name'] = $category_name;
+        $res['category_id'] = $category_id;
         return response()->json($res);
 
         // if ($productList) {

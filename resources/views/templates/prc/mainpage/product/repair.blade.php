@@ -404,6 +404,18 @@
     top: 3px;
     position: relative;
 }
+
+
+@media screen and (max-width:767px) {
+
+    #price{
+        margin-top: 1rem;
+    }
+
+}
+
+
+
     </style>
 @endsection
 @section('content')
@@ -541,9 +553,9 @@
                                                                            
 
                                                                             @if(empty($productrepairprice->price_range))
-                                                                            <div class="col-sm-12"
-                                                                                 style="">
-                                                                                <p style="font-size: 28px;">
+                                                                            <div class="col-sm-12" id="price"
+                                                                                  >
+                                                                                <p style="font-size: 28px;color: var(--secondary-color);">
                                                                                     Repair Price :
                                                                                     {{$repair->repair_price}}
                                                                                 </p>
@@ -744,6 +756,17 @@
                 $('#list_' + ids).append(list);
             });
 
+        }
+
+        function mkCopyCurrentPageUrl() {
+            let dummy = document.createElement('input'),
+            text = window.location.href;
+            document.body.appendChild(dummy);
+            dummy.value = text;
+            dummy.select();
+            document.execCommand('copy');
+            document.body.removeChild(dummy);
+            alert("Url copied to clipboard.");
         }
     </script>
 
