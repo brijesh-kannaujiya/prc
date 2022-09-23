@@ -410,7 +410,7 @@ use Illuminate\Support\Facades\Route;
 			if (windowTop >= browseFaultsELOffset) {
 				browseCatEl.fadeIn();
 			} else {
-				browseCatEl.fadeOut();
+				// browseCatEl.fadeOut();
 			}
 		} else {
 			return;

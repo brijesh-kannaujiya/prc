@@ -76,6 +76,24 @@
     --site-border-radius: 5px;
     --primary-color: #ffe303;
     --secondary-color: #02303e;
+    --section-top-margin:40px;
+    --section-bottom-margin:40px;
+    --section-bottom-padding:40px;
+    --section-top-padding:40px;
+}
+
+.section-top-padding{
+    padding-top: var(--section-top-padding);
+}
+.section-bottom-padding{
+    padding-bottom: var(--section-bottom-padding);
+}
+
+.section-top-margin{
+    margin-top: var(--section-top-margin);
+}
+.section-bottom-margin{
+    margin-bottom: var(--section-bottom-margin);
 }
 
 html {
@@ -7811,7 +7829,6 @@ body .mfp-bottom-bar {
 
 .wpb-js-composer .wpb_wrapper .vc_tta-container .vc_tta-tabs.vc_tta-style-estate .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active a {
     color: #b3bec8;
-    font-family: ;
 }
 
 .wpb-js-composer .wpb_wrapper .vc_tta-container .vc_tta-tabs.vc_tta-style-estate .vc_tta-tabs-container .vc_tta-tabs-list .vc_tta-tab.vc_active a:before {
@@ -8083,15 +8100,14 @@ body .mfp-bottom-bar {
     margin-bottom: 0;
 }
 
+
 .wpb-js-composer .wpb_wrapper .vc_tta-container .vc_tta-tabs.vc_tta-style-tour-default .vc_tta-tabs-container .vc_tta-tab a {
     border: none;
     padding: 0;
     color: #c5c5c5;
-    font-family: ;
     font-size: 24px;
     line-height: normal;
 }
-
 .wpb-js-composer .wpb_wrapper .vc_tta-container .vc_tta-tabs.vc_tta-style-tour-default .vc_tta-tabs-container .vc_tta-tab.vc_active a,
 .wpb-js-composer .wpb_wrapper .vc_tta-container .vc_tta-tabs.vc_tta-style-tour-default .vc_tta-tabs-container .vc_tta-tab a:hover {
     color: #083260;
@@ -9004,18 +9020,9 @@ body .mfp-bottom-bar {
 
 .service-option-container > h3 {
     font-weight: bold;
-    text-align: center;
-    margin-top: calc(0.1vw + 50px);
-    margin-bottom: calc(0.1vw + 50px);
+    font-size: 36px;
 }
 
-/*.service-option-container > h3 {
-  font-size: 22px;
-  font-family: 'AktivGrotesk-Bold';
-  color: #083260;
-  margin: 52px 0px 19px;
-  letter-spacing: -0.016em;
-}*/
 .service-option-container > h3 span {
     margin-right: 7px;
 }
@@ -10634,7 +10641,9 @@ body .mfp-bottom-bar {
 } */
 
 /* manoj */
-
+.product-page-breadcrumb{
+    padding: 2%; background: whitesmoke; text-align: center;
+}
 .repair-price-and-desc-row_wrap {
     border: 6px solid var(--primary-color);
     border-left-color: var(--secondary-color);

@@ -1360,7 +1360,7 @@
                         itemContentWrap.show(); // show main item wrapper
                         // $selectedCategoryWrap.hide();
                          $('.selectedSearchBrandext').text(res.barndname);
-                         $('#SearchedAreiaBrand').text('Searched Brand :-')
+                         $('#SearchedAreiaBrand').text('Searched Brand : ')
                         //  selectedCategoryWrap.show();
                          selectedBrandWrap.show();
                     } else {

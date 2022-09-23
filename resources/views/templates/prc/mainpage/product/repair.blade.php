@@ -438,12 +438,6 @@
             </div>
         </div>
     </div>
-    </div>
-    </div>
-
-
-
-
 
     <div id="content" class="site-content">
         <div class="content-inner">
@@ -459,236 +453,117 @@
                                             <div class="vc_column-inner">
                                                 <div class="wpb_wrapper">
                                                     <div class="cms-service-menu  ">
-                                                        <div id="fr-service-menu" class="fr-accordion  ">
-                                                            <div class="content">
-
-                                                                @foreach($itemsList as $item)
-
-                                                                    <div class="card">
-                                                                        <div class="card-header"
-                                                                             id="brand_{{ $item->id }}" {{--onclick="functionGetCat({{ $item->id }})--}}
-                                                                        ">
-                                                                        <a data-toggle="collapse"
-                                                                           data-target="#collapse-fr-service-menu2_{{ $item->id }}"
-                                                                           aria-expanded="false"
-                                                                           aria-controls="collapse-2">
-                                                                            {{ $item->name }}
-                                                                            <i class="zmdi zmdi-chevron-down"></i>
-                                                                        </a>
-                                                                    </div>
-                                                                    @if($item->categories->count() > 0)
-                                                                        <div id="collapse-fr-service-menu2_{{ $item->id }}"
-                                                                             class="collapse"
-                                                                             aria-labelledby="heading-2"
-                                                                             data-parent="#fr-service-menu">
-                                                                            <div class="card-body">
-                                                                                <ul class="ul-categories" {{--id="list_{{ $item->id }}"--}}>
-                                                                                    @foreach($item->categories as $cat)
-                                                                                        <li class="categories">
-                                                                                <span class="caret">
-                                                                                    <a href="/prc/brand/{{$item->alias}}/{{$cat->alias}}">
-                                                                                        {{$cat->description->title}}
-                                                                                    </a>
-                                                                                </span>
-                                                                                            @if($cat->products->count() > 0)
-                                                                                                <ul class="nested">
-                                                                                                    @foreach($cat->products as $product)
-                                                                                                        <li class="product">
-                                                                                                            <a href="/prc/product/{{$product->alias}}">
-                                                                                                                <span>{{$product->descriptions->first()->name}}</span></a>
-                                                                                                        </li>
-                                                                                                    @endforeach
-
-                                                                                                </ul>
-                                                                                            @endif
-                                                                                        </li>
-                                                                                    @endforeach
-
-                                                                                </ul>
-                                                                            </div>
-                                                                        </div>
-                                                                    @endif
-                                                            </div>
-                                                            @endforeach
-
-
-                                                        </div>
+                                                            <?php
+                                                            echo \App\WebwilaHelpers\Bz::getCommonCategorySideBar();
+                                                            ?>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="col-md-9">
-                                        <div class="vc_column-inner">
-                                            <div class="wpb_wrapper">
-                                                <div id="cms-heading"
-                                                     class="cms-heading d-none  align-left align-left-md align-left-sm align-left-xs ">
-                                                    <h3 class="cms-heading-tag"
-                                                        style="margin-bottom: 20px; color: #083260; font-size: 54px; letter-spacing: -.016em; text-transform: none; font-weight: 400; font-style: normal; display: inline-block;">
-                                                        {{ $repair->title }}
-                                                    </h3>
-                                                </div>
-                                                <div class="wpb_text_column wpb_content_element d-none">
-                                                    <div class="wpb_wrapper">
-                                                        @unless(empty($repair->description))
-                                                            <p class="text-secondary">{!! nl2br($repair->description) !!}</p>
-                                                        @endunless
+                                        <div class="col-md-9">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+                                                    <div id="cms-heading"
+                                                         class="cms-heading d-none  align-left align-left-md align-left-sm align-left-xs ">
+                                                        <h3 class="cms-heading-tag"
+                                                            style="margin-bottom: 20px; color: #083260; font-size: 54px; letter-spacing: -.016em; text-transform: none; font-weight: 400; font-style: normal; display: inline-block;">
+                                                            {{ $repair->title }}
+                                                        </h3>
                                                     </div>
-                                                </div>
-                                                <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1561345237749">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                        <div class="vc_column-inner">
-                                                            <div class="wpb_wrapper">
-                                                                <div id="fr-grid-device-category"
-                                                                     class="cms-grid fr-grid fr-grid-device-category default  ">
-                                                                    <div class="row repair-price-and-desc-row_wrap">
-                                                                        <div class="col-md-4">
-                                                                            <img class="repair-image" src="{{ $repair->image  }}"
-                                                                                 id="product-image" />
-                                                                        </div>
-                                                                        <div class="col-md-8">
-                                                                            @if(empty($productrepairprice->price_range))
+                                                    <div class="wpb_text_column wpb_content_element d-none">
+                                                        <div class="wpb_wrapper">
+                                                            @unless(empty($repair->description))
+                                                                <p class="text-secondary">{!! nl2br($repair->description) !!}</p>
+                                                            @endunless
+                                                        </div>
+                                                    </div>
+                                                    <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1561345237749">
+                                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                            <div class="vc_column-inner">
+                                                                <div class="wpb_wrapper">
+                                                                    <div id="fr-grid-device-category"
+                                                                         class="cms-grid fr-grid fr-grid-device-category default  ">
+                                                                        <div class="row repair-price-and-desc-row_wrap">
+                                                                            <div class="col-md-4">
+                                                                                <img class="repair-image"
+                                                                                     src="{{ $repair->image  }}"
+                                                                                     id="product-image"/>
+                                                                            </div>
+                                                                            <div class="col-md-8">
+                                                                                @if(empty($productrepairprice->price_range))
                                                                                     <p style="font-size: 28px;color: var(--secondary-color);">
                                                                                         Repair Price :
                                                                                         {{$repair->repair_price}}
                                                                                     </p>
-                                                                            @endif
+                                                                                @endif
 
 
-                                                                            <div class="mkGetEasyShareLinks-wrap">
+                                                                                <div class="mkGetEasyShareLinks-wrap">
 
-                                                                                <div class="mk-any-share-links wow animate__flipInX"
-                                                                                     data-wow-duration="1s"
-                                                                                     style="visibility: visible; animation-duration: 1s; animation-name: flipInX;">
-                                                                                    <a style="color: inherit !important;">&nbsp;&nbsp;
-                                                                                        Share this:</a>
-                                                                                    <a target="_blank"
-                                                                                       href="https://www.facebook.com/sharer/sharer.php?u={{url()->current()}}"
-                                                                                       style="color: #4267B2;">
-                                                                                        <i class="fa fa-facebook"></i>
-                                                                                        <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/facebook.svg"
-                                                                                             class="img-fluid d-none"
-                                                                                             alt="facebook">
-                                                                                    </a>
+                                                                                    <div class="mk-any-share-links wow animate__flipInX"
+                                                                                         data-wow-duration="1s"
+                                                                                         style="visibility: visible; animation-duration: 1s; animation-name: flipInX;">
+                                                                                        <a style="color: inherit !important;">&nbsp;&nbsp;
+                                                                                            Share this:</a>
+                                                                                        <a target="_blank"
+                                                                                           href="https://www.facebook.com/sharer/sharer.php?u={{url()->current()}}"
+                                                                                           style="color: #4267B2;">
+                                                                                            <i class="fa fa-facebook"></i>
+                                                                                            <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/facebook.svg"
+                                                                                                 class="img-fluid d-none"
+                                                                                                 alt="facebook">
+                                                                                        </a>
 
-                                                                                    <a target="_blank"
-                                                                                       href="https://twitter.com/intent/tweet?text=Awesome%20Blog!&amp;url={{url()->current()}}"
-                                                                                       style="    color: #00acee;">
-                                                                                        <i class="fa fa-twitter"></i>
-                                                                                        <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/twitter.svg"
-                                                                                             class="img-fluid d-none"
-                                                                                             alt="twitter">
-                                                                                    </a>
+                                                                                        <a target="_blank"
+                                                                                           href="https://twitter.com/intent/tweet?text=Awesome%20Blog!&amp;url={{url()->current()}}"
+                                                                                           style="    color: #00acee;">
+                                                                                            <i class="fa fa-twitter"></i>
+                                                                                            <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/twitter.svg"
+                                                                                                 class="img-fluid d-none"
+                                                                                                 alt="twitter">
+                                                                                        </a>
 
-                                                                                    <a target="_blank"
-                                                                                       href="https://www.linkedin.com/sharing/share-offsite/?url={{url()->current()}}"
-                                                                                       style="color:#0A66C2;">
-                                                                                        <i class="fa fa-linkedin"></i>
-                                                                                        <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/linkedin.svg"
-                                                                                             class="img-fluid d-none"
-                                                                                             alt="linkedin">
-                                                                                    </a>
+                                                                                        <a target="_blank"
+                                                                                           href="https://www.linkedin.com/sharing/share-offsite/?url={{url()->current()}}"
+                                                                                           style="color:#0A66C2;">
+                                                                                            <i class="fa fa-linkedin"></i>
+                                                                                            <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/linkedin.svg"
+                                                                                                 class="img-fluid d-none"
+                                                                                                 alt="linkedin">
+                                                                                        </a>
 
-                                                                                    <a target="_blank"
-                                                                                       href="https://wa.me/?text={{url()->current()}}/"
-                                                                                       style="color: #34B7F1;">
-                                                                                        <i class="fa fa-whatsapp"></i>
-                                                                                        <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/whatsapp.svg"
-                                                                                             class="img-fluid d-none"
-                                                                                             alt="whatsapp">
-                                                                                    </a>
+                                                                                        <a target="_blank"
+                                                                                           href="https://wa.me/?text={{url()->current()}}/"
+                                                                                           style="color: #34B7F1;">
+                                                                                            <i class="fa fa-whatsapp"></i>
+                                                                                            <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/whatsapp.svg"
+                                                                                                 class="img-fluid d-none"
+                                                                                                 alt="whatsapp">
+                                                                                        </a>
 
 
-                                                                                    <!-- <a target="_blank" href="https://www.blogger.com/blog_this.pyra?u={{url()->current()}}">
+                                                                                        <!-- <a target="_blank" href="https://www.blogger.com/blog_this.pyra?u={{url()->current()}}">
                                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                     <path d="M22.814 9.031h-1.95c-1 0-1.185-.764-1.185-1.707.001-4.045-3.272-7.324-7.308-7.324h-5.062c-4.037 0-7.309 3.279-7.309 7.324v9.352c0 4.045 3.272 7.324 7.309 7.324h9.383c4.036 0 7.308-3.279 7.308-7.324v-6.457c0-.657-.531-1.188-1.186-1.188zm-15.428-3.031h4.229c.765 0 1.385.671 1.385 1.5s-.62 1.5-1.386 1.5h-4.228c-.766 0-1.386-.671-1.386-1.5s.62-1.5 1.386-1.5zm9.134 12h-9.04c-.817 0-1.48-.672-1.48-1.5 0-.83.663-1.5 1.48-1.5h9.039c.817 0 1.48.67 1.48 1.5.001.828-.662 1.5-1.479 1.5z"></path>
                                 </svg>
                                 <img src="https://thelegalaffair.com/wp-content/themes/digitaleye/assets/img/icons/blogger.svg" class="img-fluid d-none" alt="blogger">
                             </a> -->
 
-                                                                                    <a href="javascript:void(0)"
-                                                                                       onclick="mkCopyCurrentPageUrl()">
-                                                                                        <i class="fa fa-link"></i>
-                                                                                    </a>
+                                                                                        <a href="javascript:void(0)"
+                                                                                           onclick="mkCopyCurrentPageUrl()">
+                                                                                            <i class="fa fa-link"></i>
+                                                                                        </a>
+                                                                                    </div>
                                                                                 </div>
+
+
+                                                                                {!! sc_html_render($repair->content) !!}
                                                                             </div>
 
 
-                                                                            {!! sc_html_render($repair->content) !!}
                                                                         </div>
 
-
-                                                                    </div>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-
-                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                        <div class="vc_column-inner">
-                                                            <div class="wpb_wrapper">
-                                                                <div id="fr-fancybox-carousel"
-                                                                     class="service-option-container  ">
-                                                                    <h3>Repair Services</h3>
-                                                                    <div class="service-options">
-                                                                        {{--                                                                        Manoj added repair card --}}
-                                                                        @unless(empty($repairs))
-                                                                            <div class="row">
-                                                                                @foreach($repairs as $repair)
-                                                                                    <div class="col-md-6  col-xl-4">
-                                                                                        <div class="repair-item">
-                                                                                            <div class="image-repair">
-                                                                                                <a href="/showRepair/{{$product->alias}}/{{$repair->alias}}">
-                                                                                                    <img src="{{ $repair->image }}"
-                                                                                                         alt="{{ $repair->title }}">
-                                                                                                </a>
-                                                                                            </div>
-                                                                                            <h3>{{ $repair->title }}</h3>
-                                                                                            <p class="content">{{ $repair->description }}</p>
-                                                                                            <div class="meta">
-                                                                                                {{ $repair->repair_price }}
-                                                                                                <a href="/showRepair/{{$product->alias}}/{{$repair->alias}}">Choose
-                                                                                                    Service</a>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                @endforeach
-                                                                            </div>
-                                                                        @endunless
-
-                                                                        @if(empty($repairs))
-                                                                            <div class="row">
-                                                                                @foreach($repairlist as $repair2)
-                                                                                    <div class="col-md-6  col-xl-4">
-                                                                                        <div class="repair-item">
-                                                                                            <div class="image-repair">
-                                                                                                <a href="/showRepair/{{$repair2->alias}}">
-                                                                                                    <img src="{{ $repair2->image }}"
-                                                                                                         alt="{{ $repair2->title }}">
-                                                                                                </a>
-                                                                                            </div>
-                                                                                            <h3>{{ $repair2->title }}</h3>
-                                                                                            <p class="content">{{ $repair2->description }}</p>
-                                                                                            <div class="meta">
-                                                                                                {{ $repair2->repair_price }}
-                                                                                                <a href="/showRepair/{{$repair2->alias}}">Choose
-                                                                                                    Service</a>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                @endforeach
-                                                                            </div>
-
-                                                                        @endif
-
-
-                                                                        {{--                                                                        End Manoj added repair card --}}
-
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -696,14 +571,82 @@
                                                     </div>
 
 
+                                                    <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                            <div class="vc_column-inner">
+                                                                <div class="wpb_wrapper">
+                                                                    <div id="fr-fancybox-carousel"
+                                                                         class="service-option-container  ">
+                                                                        <h3>Repair Services</h3>
+                                                                        <div class="service-options">
+                                                                            {{--                                                                        Manoj added repair card --}}
+                                                                            @unless(empty($repairs))
+                                                                                <div class="row">
+                                                                                    @foreach($repairs as $repair)
+                                                                                        <div class="col-md-6  col-xl-4">
+                                                                                            <div class="repair-item">
+                                                                                                <div class="image-repair">
+                                                                                                    <a href="/showRepair/{{$product->alias}}/{{$repair->alias}}">
+                                                                                                        <img src="{{ $repair->image }}"
+                                                                                                             alt="{{ $repair->title }}">
+                                                                                                    </a>
+                                                                                                </div>
+                                                                                                <h3>{{ $repair->title }}</h3>
+                                                                                                <p class="content">{{ $repair->description }}</p>
+                                                                                                <div class="meta">
+                                                                                                    {{ $repair->repair_price }}
+                                                                                                    <a href="/showRepair/{{$product->alias}}/{{$repair->alias}}">Choose
+                                                                                                        Service</a>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    @endforeach
+                                                                                </div>
+                                                                            @endunless
+
+                                                                            @if(empty($repairs))
+                                                                                <div class="row">
+                                                                                    @foreach($repairlist as $repair2)
+                                                                                        <div class="col-md-6  col-xl-4">
+                                                                                            <div class="repair-item">
+                                                                                                <div class="image-repair">
+                                                                                                    <a href="/showRepair/{{$repair2->alias}}">
+                                                                                                        <img src="{{ $repair2->image }}"
+                                                                                                             alt="{{ $repair2->title }}">
+                                                                                                    </a>
+                                                                                                </div>
+                                                                                                <h3>{{ $repair2->title }}</h3>
+                                                                                                <p class="content">{{ $repair2->description }}</p>
+                                                                                                <div class="meta">
+                                                                                                    {{ $repair2->repair_price }}
+                                                                                                    <a href="/showRepair/{{$repair2->alias}}">Choose
+                                                                                                        Service</a>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    @endforeach
+                                                                                </div>
+
+                                                                            @endif
+
+
+                                                                            {{--                                                                        End Manoj added repair card --}}
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+
+                                                    </div>
                                                 </div>
                                             </div>
+
+
                                         </div>
-
-
                                     </div>
                                 </div>
-                            </div>
                         </main><!-- #main -->
                     </div><!-- #primary -->
                 </div>
